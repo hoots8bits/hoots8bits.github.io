@@ -6,12 +6,12 @@ This project features original narrative and artistic elements developed with Ph
 
 ## Access and Usage
 To use or play the program, simply visit the official link:
-**[https://hoots8bit.github.io](https://hoots8bit.github.io)**
+**[https://hoots8bits.github.io](https://hoots8bits.github.io)**
 
 ## Recommended Attribution
 If you create content based on this program (art commissions, gameplay videos, or reviews), it is **recommended** that you credit the original author:
 > *Original Characters/Music/Programing by: S_A3*  
-> *Official Link: https://hoots8bit.github.io*
+> *Official Link: https://hoots8bits.github.io*
 
 ## Permitted Uses
 * **Commissions:** You are allowed to accept paid commissions for original fan art of the characters.
