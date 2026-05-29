@@ -1,0 +1,70 @@
+{
+    "path": "audio/sfx",
+            "files": [
+        {
+            "type": "audio",
+            "key": "jump",
+            "url": "jump.wav"
+        },
+        {
+            "type": "audio",
+            "key": "skidd",
+            "url": "skidd.wav"
+        },
+        {
+            "type": "audio",
+            "key": "stomp_activate",
+            "url": "stomp_activate.wav"
+        },
+        {
+            "type": "audio",
+            "key": "hurt",
+            "url": "hurt.wav"
+        },
+        {
+            "type": "audio",
+            "key": "pullOut",
+            "url": "pullOut.wav"
+        },
+        {
+            "type": "audio",
+            "key": "throw",
+            "url": "throw.wav"
+        },
+        {
+            "type": "audio",
+            "key": "walk",
+            "url": "walk.wav"
+        },
+        {
+            "type": "audio",
+            "key": "sprint",
+            "url": "sprint.wav"
+        },
+        {
+            "type": "audio",
+            "key": "explosion1",
+            "url": "explosion1.wav"
+        },
+        {
+            "type": "audio",
+            "key": "wallBreak",
+            "url": "wallBreak.wav"
+        },
+        {
+            "type": "audio",
+            "key": "select",
+            "url": "select.wav"
+        },
+        {
+            "type": "audio",
+            "key": "crack",
+            "url": "crack.wav"
+        },
+        {
+            "type": "audio",
+            "key": "glitch",
+            "url": "glitch.wav"
+        }
+    ]
+}

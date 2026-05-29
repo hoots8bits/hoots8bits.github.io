@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="shortcut icon" href="icon.png" type="img/x-icon">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Hoots">
+
+
+    <meta name="keywords" content="hoots, hoots game, hoots horror, hoots the owl, free game, S_A3">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="S_A3">
+
+    <meta property="og:description" content="Goodie! This is a platformer short game where you go trough 4 different stages to ????">
+    <meta property="og:image" content="preview.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoots</title>
+    <style>
+        
+            html{
+                background: url(assets/Pause/pause_background.png);
+            }
+
+            body {
+                width: 100%;
+                height: 100%;
+                overflow: hidden;
+                margin:0;
+                background:black;
+                padding:0;
+            }
+            #game_container {
+                display:block;
+                width: 100vw;
+                height: 100vh;
+                overflow: hidden;
+                margin: 0;
+                padding: 0;
+                background: black;
+                touch-action: none;
+                image-rendering: pixelated;
+                image-rendering: crisp-edges;
+            }
+            @font-face {
+                font-family: 'HUDfont';
+                src: url('assets/fonts/sonic-the-hedgehog-2-hud-font.woff2') format('woff2');
+                font-weight: normal;
+                font-style: normal;
+            }
+            
+    </style>
+</head>
+<body>
+
+    <div id="game_container">
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+    <script src="src/phaser.min/phaser.js"></script>
+
+    
+        <script type= "module" src="src/index.js"></script>
+    </div>
+
+
+</body>
+</html>

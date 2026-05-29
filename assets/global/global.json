@@ -1,0 +1,34 @@
+{
+    "anims":[
+        {
+            "key": "appleHeart",
+            "frames": [
+                { "frame": 2 }
+            ],
+            "frameRate": 10,
+            "repeat": -1,
+            "defaultTextureKey": "heartHud"
+        },
+        {
+            "key": "heart_full",
+            "frames": [
+                { "frame": 0 }
+            ],
+            "frameRate": 10,
+            "repeat": -1,
+            "defaultTextureKey": "heartHud"
+        },
+        {
+            "key": "heart_broken",
+            "frames": [
+                { "frame": 1 }
+            ],
+            "frameRate": 10,
+            "repeat": -1,
+            "defaultTextureKey": "heartHud"
+        }
+        
+
+    ]
+
+}

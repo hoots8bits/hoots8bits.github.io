@@ -1,0 +1,49 @@
+{
+    "anims":[
+        {
+            "key": "stage1",
+            "frames": [
+                { "frame": 0 }
+            ],
+            "frameRate": 2,
+            "repeat": -1,
+            "defaultTextureKey": "names"
+        },
+        {
+            "key": "stage2",
+            "frames": [
+                { "frame": 1 }
+            ],
+            "frameRate": 2,
+            "repeat": -1,
+            "defaultTextureKey": "names"
+        },
+        {
+            "key": "stage3",
+            "frames": [
+                { "frame": 2 }
+            ],
+            "frameRate": 2,
+            "repeat": -1,
+            "defaultTextureKey": "names"
+        },
+        {
+            "key": "stage4",
+            "frames": [
+                { "frame": 3 }
+            ],
+            "frameRate": 2,
+            "repeat": -1,
+            "defaultTextureKey": "names"
+        },
+        {
+            "key": "stage5",
+            "frames": [
+                { "frame": 4 }
+            ],
+            "frameRate": 2,
+            "repeat": -1,
+            "defaultTextureKey": "names"
+        }
+    ]
+}

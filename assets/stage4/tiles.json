@@ -1,0 +1,18 @@
+{
+    "stage2Tiles":{
+        "path": "assets/stage4",
+        "files": [
+            {
+                "type": "image",
+                "key": "tileset_stage4",
+                "url": "tileset.png"
+            },
+            {
+                "type": "image",
+                "key": "disc4",
+                "url": "disc.png"
+            }
+           
+        ]
+    }
+}

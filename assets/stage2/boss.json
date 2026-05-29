@@ -1,0 +1,13 @@
+{
+    "anims":[
+        {
+            "key": "stage2Boss_idle",
+            "frames": [
+                { "frame": 0 }
+            ],
+            "frameRate": 10,
+            "repeat": -1,
+            "defaultTextureKey": "bossStage2"
+        }
+    ]
+}

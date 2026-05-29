@@ -1,0 +1,56 @@
+{
+    "path": "audio/music",
+            "files": [
+        {
+            "type": "audio",
+            "key": "title",
+            "url": "title.wav"
+        },
+        {
+            "type": "audio",
+            "key": "gameOver",
+            "url": "gameOver.wav"
+        },
+        {
+            "type": "audio",
+            "key": "discEncounter",
+            "url": "discEncounter.wav"
+        },
+        {
+            "type": "audio",
+            "key": "levelJingle",
+            "url": "levelJingle.wav"
+        },
+        {
+            "type": "audio",
+            "key": "victoryJingle",
+            "url": "victoryJingle.wav"
+        },
+        {
+            "type": "audio",
+            "key": "boss",
+            "url": "boss.wav"
+        },
+        {
+            "type": "audio",
+            "key": "stage1",
+            "url": "ominous.wav"
+        },
+        {
+            "type": "audio",
+            "key": "stage2",
+            "url": "stage2.wav"
+        },
+        {
+            "type": "audio",
+            "key": "stage4",
+            "url": "finalboss.wav"
+        },
+        {
+            "type": "audio",
+            "key": "endJingle",
+            "url": "end.wav"
+        }
+
+    ]
+}

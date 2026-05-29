@@ -1,0 +1,27 @@
+{
+    "stage1Tiles":{
+        "path": "assets/stage1",
+        "files": [
+            {
+                "type": "image",
+                "key": "floor",
+                "url": "floor.png"
+            },
+            {
+                "type": "image",
+                "key": "breakableWall",
+                "url": "breakableWall.png"
+            },
+            {
+                "type": "image",
+                "key": "spike",
+                "url": "spike.png"
+            },
+            {
+                "type": "image",
+                "key": "disc1",
+                "url": "disc1.png"
+            }
+        ]
+    }
+}
