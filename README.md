@@ -31,7 +31,7 @@ The author commits to enforcing takedown actions, including DMCA notices and per
 
 ## Contact for Commercial Use
 For business inquiries, special licensing, or commercial permissions, please contact:
-**Via Discord: s_a3, via Gmail: sa3.gameryt@gmail.com, via Bluesky: @s-a3.bsky.social**
+**Via Discord: s_a3, via Gmail: sa3.gameryt@gmail.com, via Bluesky: [@s-a3.bsky.social](https://bsky.app/profile/s-a3.bsky.social)**
 
 ## Legal Notice
 **The author reserves the right to update, change, or enforce these rules and restrictions at any time if deemed necessary.** The author also reserves the right to restrict or remove any specific content deemed harmful to the project's reputation or moral rights.
