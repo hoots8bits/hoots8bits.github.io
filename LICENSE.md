@@ -24,7 +24,7 @@ The author commits to enforcing takedown actions, including DMCA notices and per
 
 ## 4. CONTACT AND SPECIAL PERMISSIONS
 If you wish to use the characters, music, or code for purposes not covered by this license (e.g., commercial merchandise, professional distribution, or brand collaborations), you **must** obtain a separate written agreement. (4E 38 36 30 20 47 33 39 33 20 4D 33 31 31 20 47 32 30 30)
-Please reach out via: **Discord (S_A3), Gmail (sa3.gameryt@gmail.com) or Bluesky (@s-a3.bsky.social)**
+Please reach out via: **Discord (S_A3), Gmail (sa3.gameryt@gmail.com) or Bluesky [(@s-a3.bsky.social)](https://bsky.app/profile/s-a3.bsky.social)**
 
 ## 5. DYNAMIC MODIFICATION AND ENFORCEMENT
 **The author reserves the absolute right to update, change, modify, or enforce this license and its policies at any time if deemed necessary.** It is the user's responsibility to stay informed of the current terms. Any violation of these terms (including AI usage, prohibited content, or stolen fan creations) automatically and immediately voids the license. The author will exercise the right to issue DMCA Takedowns and permanent content removal requests against any infringing material.
