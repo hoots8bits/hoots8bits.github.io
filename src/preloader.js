@@ -63,7 +63,7 @@ export class Preloader extends Phaser.Scene{
         this.load.spritesheet('objectHearts', 'assets/global/objects.png', {frameWidth: 16, frameHeight: 16})
 
         this.load.animation("globalObj", "assets/global/global.json")
-        this.load.font('pixelFont', 'assets/font/Pixeled.ttf')
+        //this.load.font('pixelFont', 'assets/font/Pixeled.ttf')
         
         this.load.spritesheet('hoots', 'assets/player/hoots.png', {frameWidth: 16, frameHeight: 16});
         this.load.animation('hootsAnims', 'assets/player/player.json')

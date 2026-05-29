@@ -429,7 +429,7 @@ export class Stage4 extends Phaser.Scene{
             }
                 //this.controls.update(delta)
 
-            if(this.keyA.isDown && !this.cursors.down.isDown && !this.player.abilityCooldown && this.playerBomb.bombExploded && !this.player.charstateVictory){
+            if(this.keyA.isDown && (!this.cursors.down.isDown && !this.player.body.onFloor() || this.player.body.onFloor()) && !this.player.abilityCooldown && this.playerBomb.bombExploded && !this.player.charstateVictory){
 
                 this.pullOutSound.play()
                 this.explosionSound.stop()

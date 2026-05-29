@@ -4,52 +4,52 @@
         {
             "type": "audio",
             "key": "title",
-            "url": "title.wav"
+            "url": "title.mp3"
         },
         {
             "type": "audio",
             "key": "gameOver",
-            "url": "gameOver.wav"
+            "url": "gameOver.mp3"
         },
         {
             "type": "audio",
             "key": "discEncounter",
-            "url": "discEncounter.wav"
+            "url": "discEncounter.mp3"
         },
         {
             "type": "audio",
             "key": "levelJingle",
-            "url": "levelJingle.wav"
+            "url": "levelJingle.mp3"
         },
         {
             "type": "audio",
             "key": "victoryJingle",
-            "url": "victoryJingle.wav"
+            "url": "victoryJingle.mp3"
         },
         {
             "type": "audio",
             "key": "boss",
-            "url": "boss.wav"
+            "url": "boss.mp3"
         },
         {
             "type": "audio",
             "key": "stage1",
-            "url": "ominous.wav"
+            "url": "ominous.mp3"
         },
         {
             "type": "audio",
             "key": "stage2",
-            "url": "stage2.wav"
+            "url": "stage2.mp3"
         },
         {
             "type": "audio",
             "key": "stage4",
-            "url": "finalboss.wav"
+            "url": "finalboss.mp3"
         },
         {
             "type": "audio",
             "key": "endJingle",
-            "url": "end.wav"
+            "url": "end.mp3"
         }
 
     ]

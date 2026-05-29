@@ -4,67 +4,67 @@
         {
             "type": "audio",
             "key": "jump",
-            "url": "jump.wav"
+            "url": "jump.mp3"
         },
         {
             "type": "audio",
             "key": "skidd",
-            "url": "skidd.wav"
+            "url": "skidd.mp3"
         },
         {
             "type": "audio",
             "key": "stomp_activate",
-            "url": "stomp_activate.wav"
+            "url": "stomp_activate.mp3"
         },
         {
             "type": "audio",
             "key": "hurt",
-            "url": "hurt.wav"
+            "url": "hurt.mp3"
         },
         {
             "type": "audio",
             "key": "pullOut",
-            "url": "pullOut.wav"
+            "url": "pullOut.mp3"
         },
         {
             "type": "audio",
             "key": "throw",
-            "url": "throw.wav"
+            "url": "throw.mp3"
         },
         {
             "type": "audio",
             "key": "walk",
-            "url": "walk.wav"
+            "url": "walk.mp3"
         },
         {
             "type": "audio",
             "key": "sprint",
-            "url": "sprint.wav"
+            "url": "sprint.mp3"
         },
         {
             "type": "audio",
             "key": "explosion1",
-            "url": "explosion1.wav"
+            "url": "explosion1.mp3"
         },
         {
             "type": "audio",
             "key": "wallBreak",
-            "url": "wallBreak.wav"
+            "url": "wallBreak.mp3"
         },
         {
             "type": "audio",
             "key": "select",
-            "url": "select.wav"
+            "url": "select.mp3"
         },
         {
             "type": "audio",
             "key": "crack",
-            "url": "crack.wav"
+            "url": "crack.mp3"
         },
         {
             "type": "audio",
             "key": "glitch",
-            "url": "glitch.wav"
+            "url": "glitch.mp3"
         }
     ]
 }
