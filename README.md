@@ -1,4 +1,4 @@
-# Hoots
+# Hoots - 8 bits
 
 Hey! Welcome to the game's Github! This game is still in development, so there's some stuff missing.
 
