@@ -365,14 +365,7 @@ export class Stage4 extends Phaser.Scene{
         const camUnlockLimit = this.stage4Tilemap.findObject("camDisc", obj => obj.name === "discLimit")
 
         //camera rebounding
-        if(this.player.x < camUnlock.x || this.player.y < camUnlock.y){
-            this.canDieFromVoid = true
-            this.cameras.main.setBounds(camLock1.x, camLock1.y, camLock2.x, camLock2.y)
-        }
-        else if(this.player.x >= camUnlock.x && this.player.y >= camUnlock.y){
-            this.cameras.main.setBounds(camLock1.x, camLock1.y, undefined, camUnlockLimit.y)
-            this.canDieFromVoid = false
-        }
+        
             
 
 
@@ -466,9 +459,7 @@ export class Stage4 extends Phaser.Scene{
                             }
                             
                         }
-                        if(!this.player.body.onFloor()){
-                                this.player.coyoteTime = true
-                        }
+                        
                         this.time.delayedCall(200, ()=>{
                             this.player.charstateThrowing = false
                         })

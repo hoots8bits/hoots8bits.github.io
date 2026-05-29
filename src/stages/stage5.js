@@ -304,9 +304,7 @@ export class Stage5 extends Phaser.Scene{
                             }
                             
                         }
-                        if(!this.player.body.onFloor()){
-                                this.player.coyoteTime = true
-                        }
+
                         this.time.delayedCall(200, ()=>{
                             this.player.charstateThrowing = false
                         })
